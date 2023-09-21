@@ -42,5 +42,3 @@ For any inquiries or collaboration opportunities, please reach out to:
 - **Salvatore Morelli**: [Email Address]
 - **Ignacio Flores**: [Email Address]
 
-## License
-All data and code associated with the GC Wealth Project are licensed under [specific license name, e.g., "MIT License"]. Please refer to the `LICENSE` file.
