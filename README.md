@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="logos/gc_logo.png" alt="GC Logo" width="100" />
+  <img src="logos/roma_tre_logo.png" alt="Roma Tre Logo" width="100" />
+  <img src="logos/stone_logo.png" alt="Stone Logo" width="100" />
+</p>
+
 # GC Wealth Project
 
 ## Introduction
