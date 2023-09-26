@@ -3,7 +3,7 @@
 ## Introduction
 The GC Wealth Project, an initiative of the [Stone Center on Socio-Economic Inequality](https://stonecenter.gc.cuny.edu), is a multi-year endeavor dedicated to consolidating and expanding access to the most recent research and information on wealth, wealth inequalities, and related tax policies across countries and over time. With a series of interactive data visualizations available on [https://wealthproject.gc.cuny.edu](https://wealthproject.gc.cuny.edu/index.html), users can delve deep into the data, gaining insights and understanding of the intricate facets of wealth and its distribution.
 
-## Datasets Overview
+## Datasets Overview (v1.0)
 
 The GC Wealth Project offers a range of datasets, each providing unique insights into various aspects of wealth and its distribution. Below is a structured overview:
 
