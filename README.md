@@ -1,10 +1,19 @@
 # GC Wealth Project
 
-<p align="center" style="width:80%; margin:auto;">
-  <img src="logos/gc_logo.png" alt="GC Logo" style="width:33.33%;" />
-  <img src="logos/roma_tre_logo.png" alt="Roma Tre Logo" style="width:33.33%;" />
-  <img src="logos/stone_logo.png" alt="Stone Logo" style="width:33.33%;" />
-</p>
+<table align="center" width="80%">
+  <tr>
+    <td align="center" width="33.33%">
+      <img src="logos/gc_logo.png" alt="GC Logo" style="width:100%;" />
+    </td>
+    <td align="center" width="33.33%">
+      <img src="logos/roma_tre_logo.png" alt="Roma Tre Logo" style="width:100%;" />
+    </td>
+    <td align="center" width="33.33%">
+      <img src="logos/stone_logo.png" alt="Stone Logo" style="width:100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 ## Introduction
