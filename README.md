@@ -30,8 +30,8 @@ Gain insights from cross-country estimates of annual flows of wealth left at dea
 
 ### Full Data Warehouse
 For a comprehensive view, access our bulk download that consolidates all our datasets:
--**download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1gslB3SO_62tRohdmfUdGosWzZy6Qp0P_/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1IkyPjhWQWEeQKfenHlbF8KiuWgSMvbwg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1LcvVADxkFPRkzVJqn1QCfgXALIYCo9Vq/view?usp=share_link)
--**download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1lGyiHlhob6ZAmKxrBQJJEhj-zTMbPW5B/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1A3v16EaTHNFNsnqxOvJ8bIP-61YamiSG/view?usp=share_link), [CSV](https://drive.google.com/file/d/1DefGi4uM59yoeFzFzeOoh1744DktZf_n/view?usp=share_link)
+- **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1gslB3SO_62tRohdmfUdGosWzZy6Qp0P_/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1IkyPjhWQWEeQKfenHlbF8KiuWgSMvbwg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1LcvVADxkFPRkzVJqn1QCfgXALIYCo9Vq/view?usp=share_link)
+- **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1lGyiHlhob6ZAmKxrBQJJEhj-zTMbPW5B/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1A3v16EaTHNFNsnqxOvJ8bIP-61YamiSG/view?usp=share_link), [CSV](https://drive.google.com/file/d/1DefGi4uM59yoeFzFzeOoh1744DktZf_n/view?usp=share_link)
 
 ## Resources and Documentation
 - **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](https://drive.google.com/file/d/1du3HqZnRxAoWiYhi2YS_rLKVxlruySjJ/view?usp=share_link).
