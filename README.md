@@ -29,7 +29,7 @@ Explore a database detailing the evolution of these taxes across countries and, 
 Gain insights from cross-country estimates of annual flows of wealth left at death and gifts from living donors.
 
 ### Full Data Warehouse
-For a comprehensive view, access our bulk download that consolidates all our datasets 
+For a comprehensive view, access our bulk download that consolidates all our datasets:
 -**download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1gslB3SO_62tRohdmfUdGosWzZy6Qp0P_/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1IkyPjhWQWEeQKfenHlbF8KiuWgSMvbwg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1LcvVADxkFPRkzVJqn1QCfgXALIYCo9Vq/view?usp=share_link)
 -**download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1lGyiHlhob6ZAmKxrBQJJEhj-zTMbPW5B/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1A3v16EaTHNFNsnqxOvJ8bIP-61YamiSG/view?usp=share_link), [CSV](https://drive.google.com/file/d/1DefGi4uM59yoeFzFzeOoh1744DktZf_n/view?usp=share_link)
 
