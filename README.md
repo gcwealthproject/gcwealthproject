@@ -10,8 +10,8 @@ The GC Wealth Project offers a range of datasets, each providing unique insights
 ### 1. Wealth Topography
 Delve into cross-country data that captures the evolution of household portfolios of assets and debt.
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-topography/)
-- **Download database with metadata (heavier version)**: - [Excel](https://docs.google.com/spreadsheets/d/1xutdAMIt7b1GYCeMOIt99p8q7hKsQWQA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1VNqGylgn18FreKtjxXa4x3OsKy38Ddhg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1l5GOdPlnj3njCxYSyTMeEDCsSJzcY7hT/view?usp=share_link)
-- **Download database without metadata (lighter version)**: [Excel](https://docs.google.com/spreadsheets/d/10wCtyx4tj60qBpHcZ7jBkVyvtuRdjEXE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1o5YaVJUHqfuCGUM1e3xw0XO18J4puMfe/view?usp=share_link), [CSV](https://drive.google.com/file/d/1jKp0lyvuZ6Eibpo-mtSd9-dw8J2FMvu9/view?usp=share_link)
+- **Download database with metadata**: - [Excel](https://docs.google.com/spreadsheets/d/1xutdAMIt7b1GYCeMOIt99p8q7hKsQWQA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1VNqGylgn18FreKtjxXa4x3OsKy38Ddhg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1l5GOdPlnj3njCxYSyTMeEDCsSJzcY7hT/view?usp=share_link)
+- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/10wCtyx4tj60qBpHcZ7jBkVyvtuRdjEXE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1o5YaVJUHqfuCGUM1e3xw0XO18J4puMfe/view?usp=share_link), [CSV](https://drive.google.com/file/d/1jKp0lyvuZ6Eibpo-mtSd9-dw8J2FMvu9/view?usp=share_link)
 
 ### 2. Wealth Inequality Trends
 A comprehensive compilation of cross-national time-series data that sheds light on wealth inequality.
@@ -34,9 +34,9 @@ For a comprehensive view, access our bulk download that consolidates all our dat
 -**download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1lGyiHlhob6ZAmKxrBQJJEhj-zTMbPW5B/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1A3v16EaTHNFNsnqxOvJ8bIP-61YamiSG/view?usp=share_link), [CSV](https://drive.google.com/file/d/1DefGi4uM59yoeFzFzeOoh1744DktZf_n/view?usp=share_link)
 
 ## Resources and Documentation
-- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](../../data/data_and_documentation/).
-- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/).
-- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/). 
+- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](https://drive.google.com/file/d/1du3HqZnRxAoWiYhi2YS_rLKVxlruySjJ/view?usp=share_link).
+- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [bib file](https://drive.google.com/file/d/1Y_jZT4CbtJHEEVhjB59taYhckgIW2tzZ/view?usp=share_link).
+- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [bib file](https://drive.google.com/file/d/1gfwMdiyWea66Vhm4wD3lLe0bDKKDT9tu/view?usp=share_link). 
 
 ## Contact
 For any inquiries or collaboration opportunities, please reach out to:
