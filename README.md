@@ -10,7 +10,7 @@ The GC Wealth Project offers a range of datasets, each providing unique insights
 ### 1. Wealth Topography
 Delve into cross-country data that captures the evolution of household portfolios of assets and debt.
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-topography/)
-- **Download database with metadata (heavier version)**: [Excel](#), [Stata](#), [CSV](#)
+- **Download database with metadata (heavier version)**: [Excel]([#](https://docs.google.com/spreadsheets/d/10wCtyx4tj60qBpHcZ7jBkVyvtuRdjEXE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true)), [Stata]([#](https://drive.google.com/file/d/1o5YaVJUHqfuCGUM1e3xw0XO18J4puMfe/view?usp=share_link)), [CSV](#)
 - **Download database without metadata (lighter version)**: [Excel](#), [Stata](#), [CSV](#)
 
 ### 2. Wealth Inequality Trends
