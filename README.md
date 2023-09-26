@@ -1,10 +1,11 @@
-<p align="center">
-  <img src="logos/gc_logo.png" alt="GC Logo" width="100" />
-  <img src="logos/roma_tre_logo.png" alt="Roma Tre Logo" width="100" />
-  <img src="logos/stone_logo.png" alt="Stone Logo" width="100" />
+# GC Wealth Project
+
+<p align="center" style="width:80%; margin:auto;">
+  <img src="logos/gc_logo.png" alt="GC Logo" style="width:33.33%;" />
+  <img src="logos/roma_tre_logo.png" alt="Roma Tre Logo" style="width:33.33%;" />
+  <img src="logos/stone_logo.png" alt="Stone Logo" style="width:33.33%;" />
 </p>
 
-# GC Wealth Project
 
 ## Introduction
 The GC Wealth Project, an initiative of the [Stone Center on Socio-Economic Inequality](https://stonecenter.gc.cuny.edu), is a multi-year endeavor dedicated to consolidating and expanding access to the most recent research and information on wealth, wealth inequalities, and related tax policies across countries and over time. With a series of interactive data visualizations available on [https://wealthproject.gc.cuny.edu](https://wealthproject.gc.cuny.edu/index.html), users can delve deep into the data, gaining insights and understanding of the intricate facets of wealth and its distribution.
