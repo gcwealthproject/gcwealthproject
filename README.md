@@ -44,7 +44,7 @@ Gain insights from cross-country estimates of annual flows of wealth left at dea
 
 ### 5. Supplementary variables 
 This dataset encompasses a variety of auxiliary variables, such as exchange rates and price indices, crucial for developing the visualizations on our website. Mainly derived from the World Inequality Database ([wid.world](www.wid.world)), these elements are consistently updated and archived to maintain accuracy and reliability in our analyses.
-- **Download the supplementary variables** [Excel], [Stata], [CSV]
+- **Download the supplementary variables** [Excel](https://docs.google.com/spreadsheets/d/124Axg-NGdEMhlzb7zwlYkv34cuKJSIoM/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1f1-mEDoT8neDw3U7Tg68DRTxLxi1LEmz/view?usp=share_link), [CSV](https://drive.google.com/file/d/1sMUVYLYC3QCifFAoM9AuqvEzA6R2pwSY/view?usp=share_link)
 
 ### Full Data Warehouse
 For a comprehensive view, access our bulk download that consolidates all our datasets:
@@ -54,7 +54,7 @@ For a comprehensive view, access our bulk download that consolidates all our dat
 ## Resources and Documentation
 
 - **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](https://drive.google.com/file/d/1du3HqZnRxAoWiYhi2YS_rLKVxlruySjJ/view?usp=share_link).
-- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file](https://drive.google.com/file/d/1Y_jZT4CbtJHEEVhjB59taYhckgIW2tzZ/view?usp=share_link).
+- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file]().
 - **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file](https://drive.google.com/file/d/1gfwMdiyWea66Vhm4wD3lLe0bDKKDT9tu/view?usp=share_link).
 
 ## Warehouse history 
