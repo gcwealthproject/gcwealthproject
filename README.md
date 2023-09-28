@@ -42,6 +42,10 @@ Explore a database detailing the evolution of these taxes across countries and, 
 ### 4. Inheritance Trends (Coming Soon)
 Gain insights from cross-country estimates of annual flows of wealth left at death and gifts from living donors.
 
+### 5. Supplementary variables 
+This dataset encompasses a variety of auxiliary variables, such as exchange rates and price indices, crucial for developing the visualizations on our website. Mainly derived from the World Inequality Database ([wid.world](www.wid.world)), these elements are consistently updated and archived to maintain accuracy and reliability in our analyses.
+- **Download the supplementary variables** [Excel], [Stata], [CSV]
+
 ### Full Data Warehouse
 For a comprehensive view, access our bulk download that consolidates all our datasets:
 - **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1gslB3SO_62tRohdmfUdGosWzZy6Qp0P_/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1IkyPjhWQWEeQKfenHlbF8KiuWgSMvbwg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1LcvVADxkFPRkzVJqn1QCfgXALIYCo9Vq/view?usp=share_link)
