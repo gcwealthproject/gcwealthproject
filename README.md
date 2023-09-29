@@ -24,32 +24,33 @@ The GC Wealth Project offers a range of datasets, each providing unique insights
 ### 1. Wealth Topography
 Delve into cross-country data that captures the evolution of household portfolios of assets and debt.
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-topography/)
-- **Download database with metadata**: - [Excel](https://docs.google.com/spreadsheets/d/1xutdAMIt7b1GYCeMOIt99p8q7hKsQWQA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1VNqGylgn18FreKtjxXa4x3OsKy38Ddhg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1l5GOdPlnj3njCxYSyTMeEDCsSJzcY7hT/view?usp=share_link)
-- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/10wCtyx4tj60qBpHcZ7jBkVyvtuRdjEXE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1o5YaVJUHqfuCGUM1e3xw0XO18J4puMfe/view?usp=share_link), [CSV](https://drive.google.com/file/d/1jKp0lyvuZ6Eibpo-mtSd9-dw8J2FMvu9/view?usp=share_link)
+- **Download database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1rTg8qU5hBhsNMU970Homkbml88R7cHEn/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1tv2f8-SAx6qbSYP6ufuKUf3lP228eUXO/view?usp=share_link), [CSV](https://drive.google.com/file/d/1sIrSw1bFZJAuertcIuo9dwdmYadMYgxR/view?usp=share_link)
+- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1zjaJdk-2SF48g3RtToZGsqiiAluFzj0i/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1w_7QD6LAgBcxaHjbLQ13ZKCWAes8DQfJ/view?usp=share_link), [CSV](https://drive.google.com/file/d/1NqvbT2A03XvqT_Siax_SaT8XXpAwKAkU/view?usp=share_link)
+ 
 
 ### 2. Wealth Inequality Trends
 A comprehensive compilation of cross-national time-series data that sheds light on wealth inequality.
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-inequality-trends/)
-- **Download database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1USTM9tcM_o0ysdfy38aJ3lQkYnshqiCb/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1_haInueVXLEqIWXCjN3mdcioyc62xB9k/view?usp=share_link), [CSV](https://drive.google.com/file/d/1EwhXHR7ApZR6vv4IHmX1Ow-QLz-HWev5/view?usp=share_link)
-- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1fr6-e9atnRMnuktQu-EVT9gdTrC59N-4/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1gFx5hrZCRvl5HiOhhWbbmOOv7nbiryN-/view?usp=share_link), [CSV](https://drive.google.com/file/d/1ryEnZ7BZLLAQjhiisiBIfwdBYNSSFDdC/view?usp=share_link)
+- **Download database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/18XZkaYwhxOW8UFIbdmHEbt2hOun873AU/edit?usp=share_link&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1tFDB_fYc5Y-2vcVu9mqNvqkdnnvA00PV/view?usp=share_link), [CSV](https://drive.google.com/file/d/1kgApz4LGfxEkIRSLOSknRvPKYV7Nm50E/view?usp=share_link)
+- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1Lk4k2XyIOCm_PEj-2NC_e1ihsWTY8wsr/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1aS2iFlhu2mEIE5dYcxGXoDlL44P_T4bl/view?usp=share_link), [CSV](https://drive.google.com/file/d/1T-B9DopQIs9a6VfnfkOSjGdO_zvnkPXp/view?usp=share_link)
 
 ### 3. Estate, Inheritance, and Gift Taxes
 Explore a database detailing the evolution of these taxes across countries and, in the near future, across U.S. states.
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/EIG/)
-- **Download database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1pcTE4oALRQy_7VhYL7_8sSGIm87QhNxE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://docs.google.com/spreadsheets/d/1pcTE4oALRQy_7VhYL7_8sSGIm87QhNxE/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [CSV](https://drive.google.com/file/d/1jnrs41Vgt1sdrRfab3JYh4QXVXz4eqWp/view?usp=share_link)
-- **Download database without metadata**: [Excel](https://drive.google.com/file/d/1jnrs41Vgt1sdrRfab3JYh4QXVXz4eqWp/view?usp=share_link), [Stata](https://drive.google.com/file/d/1v4DEjdx43AjT3CJr5hh4U1r1KbL_af_k/view?usp=share_link), [CSV](https://drive.google.com/file/d/104zJ3w0WIcpP3BfTpOQUNbvul4WycHHD/view?usp=share_link)
+- **Download database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1oktzUHLXnHEeCOm2AXboujw4Vi0svH8z/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1xVeyI0OltOjuni9TUCWDAlz9gypmZKoH/view?usp=share_link), [CSV](https://drive.google.com/file/d/143Jxc3V4CN0S-otwGj1rljWJM3k4ernD/view?usp=share_link)
+- **Download database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1ipy5aisep7hU1c70m0XsIaImIumaHT7Y/edit?usp=share_link&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/15tjJqmnxJVjIMq9xcg13y1vC683KFNnW/view?usp=share_link), [CSV](https://drive.google.com/file/d/1VblxwCxzX50XUu7fWFk1YYHVmV0mxvFr/view?usp=share_link)
 
 ### 4. Inheritance Trends (Coming Soon)
 Gain insights from cross-country estimates of annual flows of wealth left at death and gifts from living donors.
 
 ### 5. Supplementary variables 
 This dataset encompasses a variety of auxiliary variables, such as exchange rates and price indices, crucial for developing the visualizations on our website. Mainly derived from the World Inequality Database ([wid.world](www.wid.world)), these elements are consistently updated and archived to maintain accuracy and reliability in our analyses.
-- **Download the supplementary variables** [Excel](https://docs.google.com/spreadsheets/d/124Axg-NGdEMhlzb7zwlYkv34cuKJSIoM/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1f1-mEDoT8neDw3U7Tg68DRTxLxi1LEmz/view?usp=share_link), [CSV](https://drive.google.com/file/d/1sMUVYLYC3QCifFAoM9AuqvEzA6R2pwSY/view?usp=share_link)
+- **Download the supplementary variables (Sept 28th, 2023 download)** [Excel](https://docs.google.com/spreadsheets/d/1ulGyRU8pan08dnqJyKGehndAcR7sY1D7/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1cmHG8th8lEkKEfqgAgMC6FmvS9Hh334q/view?usp=share_link), [CSV](https://drive.google.com/file/d/16LS8NicLEFLfiVh6GqNOgho7SNuSDm2H/view?usp=share_link)
 
 ### Full Data Warehouse
 For a comprehensive view, access our bulk download that consolidates all our datasets:
-- **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1gslB3SO_62tRohdmfUdGosWzZy6Qp0P_/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1IkyPjhWQWEeQKfenHlbF8KiuWgSMvbwg/view?usp=share_link), [CSV](https://drive.google.com/file/d/1LcvVADxkFPRkzVJqn1QCfgXALIYCo9Vq/view?usp=share_link)
-- **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1lGyiHlhob6ZAmKxrBQJJEhj-zTMbPW5B/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1A3v16EaTHNFNsnqxOvJ8bIP-61YamiSG/view?usp=share_link), [CSV](https://drive.google.com/file/d/1DefGi4uM59yoeFzFzeOoh1744DktZf_n/view?usp=share_link)
+- **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1W5QPAtFphR2n37wzkkqv5ZMuyIZxa-ZA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1l82VBIsFXiY83UBvklZx8ozZngrGVLiK/view?usp=share_link), [CSV](https://drive.google.com/file/d/1FmO8qVbBshI0iQqyY321jjp1jfKnvLT_/view?usp=share_link)
+- **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1gXVxqC9MRze6t8rB5V_ZDPDPc-OkgnQi/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1s9V6_uA5-Pl6IXao_UA9odaakUeKnAQI/view?usp=share_link), [CSV](https://drive.google.com/file/d/1dEuqsWiyFfhwSDGysY3qLw0H-iYrolhg/view?usp=share_link)
 
 ## Resources and Documentation
 
@@ -60,9 +61,3 @@ For a comprehensive view, access our bulk download that consolidates all our dat
 ## Warehouse history 
 
 The current version (v1.0) was released in September 2023, and as we’re just starting, there are no previous versions yet. Moving forward, a detailed log of all modifications will be maintained here. Each new version will be assigned a unique number, and we’ll detail what’s changed, what’s new, and what’s been fixed or removed.
-
-## Contact
-For any inquiries or collaboration opportunities, please reach out to:
-- **Salvatore Morelli**: [Email Address]
-- **Ignacio Flores**: [Email Address]
-
