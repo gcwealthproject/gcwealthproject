@@ -21,12 +21,14 @@ The [GC Wealth Project website](https://wealthproject.gc.cuny.edu/index.html) â€
 
 ## Datasets Overview (v1.0)
 
-### Full Data Warehouse
 For a comprehensive view, access our bulk download that consolidates all our datasets:
+
+### Full Data Warehouse
+
 - **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1W5QPAtFphR2n37wzkkqv5ZMuyIZxa-ZA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1l82VBIsFXiY83UBvklZx8ozZngrGVLiK/view?usp=share_link), [CSV](https://drive.google.com/file/d/1FmO8qVbBshI0iQqyY321jjp1jfKnvLT_/view?usp=share_link)
 - **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1gXVxqC9MRze6t8rB5V_ZDPDPc-OkgnQi/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1s9V6_uA5-Pl6IXao_UA9odaakUeKnAQI/view?usp=share_link), [CSV](https://drive.google.com/file/d/1dEuqsWiyFfhwSDGysY3qLw0H-iYrolhg/view?usp=share_link)
 
-The data warehouse includes four databases, which correspond to the four sections of the dashboard:
+The data warehouse also includes four single-section databases, which correspond to the four sections of the dashboard:
 
 ### 1. Wealth Topography
 
