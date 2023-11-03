@@ -76,7 +76,7 @@ This dataset encompasses a variety of auxiliary variables, such as exchange rate
 
 ## Resources and Documentation
 
-- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](https://drive.google.com/file/d/1du3HqZnRxAoWiYhi2YS_rLKVxlruySjJ/view?usp=share_link).
+- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](warehouse_documentation.pdf).
   
 - **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file](https://drive.google.com/file/d/1Y_jZT4CbtJHEEVhjB59taYhckgIW2tzZ/view?usp=share_link).
   
