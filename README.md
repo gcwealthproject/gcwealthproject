@@ -78,9 +78,9 @@ This dataset encompasses a variety of auxiliary variables, such as exchange rate
 
 - **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Download Documentation](https://github.com/gcwealthproject/gcwealthproject/blob/main/warehouse_documentation.pdf).
   
-- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file](https://drive.google.com/file/d/1Y_jZT4CbtJHEEVhjB59taYhckgIW2tzZ/view?usp=share_link).
+- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file](https://drive.google.com/file/d/13Q4ulzt38phSGrWs7xpukmqAPYptfMq8/view?usp=sharing).
   
-- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file](https://drive.google.com/file/d/1gfwMdiyWea66Vhm4wD3lLe0bDKKDT9tu/view?usp=share_link).
+- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file](https://drive.google.com/file/d/1VQmTUVI1oH-VbeWmTVez6HWz6kjH7-Et/view?usp=sharing).
 
 ## Warehouse history 
 
