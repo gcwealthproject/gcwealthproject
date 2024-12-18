@@ -84,4 +84,11 @@ This dataset encompasses a variety of auxiliary variables, such as exchange rate
 
 ## Warehouse history 
 
-The current version (v1.0) was released in November 2023, and as we’re just starting, there are no previous versions yet. Moving forward, a detailed log of all modifications will be maintained here. Each new version will be assigned a unique number, and we’ll detail what’s changed, what’s new, and what’s been fixed or removed.
+For the sake of space keeping and accessibility, former versions are only accessible in CSV format, which is unlicensed and lighter than the alternatives. 
+
+### First version v1.0 - November 2023 release: 
+
+- Full data warehouse:[download with metadata](https://drive.google.com/file/d/1FmO8qVbBshI0iQqyY321jjp1jfKnvLT_/view?usp=share_link), [download without metadata](https://drive.google.com/file/d/1dEuqsWiyFfhwSDGysY3qLw0H-iYrolhg/view?usp=share_link)
+- Supplementary variables: [download](https://drive.google.com/file/d/16LS8NicLEFLfiVh6GqNOgho7SNuSDm2H/view?usp=share_link)
+- Documentation: [download](https://osf.io/preprints/socarxiv/ta67n/).
+
