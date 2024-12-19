@@ -19,7 +19,7 @@ The GC Wealth Project, a central project of the Graduate Center's [Stone Center 
 
 The [GC Wealth Project website](https://wealthproject.gc.cuny.edu/index.html) — first launched in June 2023 — is organized around two main components: a data warehouse of gathered and novel data that can be visualized in a variety of ways through the interactive dashboard, and a Digital Library of Research on Wealth Inequality. Both are designed to provide researchers, policymakers, journalists, and others interested in wealth and wealth taxation with open, unlimited access to an array of high-quality information and resources.
 
-## The Data Warehouse (v1.0)
+## The Data Warehouse (v1.2)
 
 ### Full Data Warehouse
 
@@ -33,8 +33,8 @@ The data warehouse is also complemented with full metadata descriptive informati
 provide detailed information on sources of data, longer descriptions of variables and the concepts used,
 procedures of aggregation and estimation, bibliography links, and complementary information.
 
-- **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1W5QPAtFphR2n37wzkkqv5ZMuyIZxa-ZA/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1l82VBIsFXiY83UBvklZx8ozZngrGVLiK/view?usp=share_link), [CSV](https://drive.google.com/file/d/1FmO8qVbBshI0iQqyY321jjp1jfKnvLT_/view?usp=share_link)
-- **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/1gXVxqC9MRze6t8rB5V_ZDPDPc-OkgnQi/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1s9V6_uA5-Pl6IXao_UA9odaakUeKnAQI/view?usp=share_link), [CSV](https://drive.google.com/file/d/1dEuqsWiyFfhwSDGysY3qLw0H-iYrolhg/view?usp=share_link)
+- **Download Warehouse with metadata** [Excel](https://docs.google.com/spreadsheets/d/1wmg0CJlN5nLc_M59tCzc6QrV-_gLAqSD/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1BJ3I4Oxok7mTqcVrUkL6Gek9vbf22nla/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1YG9N0HF1m7qI4za1qyS-ckTfQZvQ1Ipw/view?usp=drive_link)
+- **Download Warehouse without metadata** [Excel](https://docs.google.com/spreadsheets/d/10iLK7QXcMNSEn4sMNGWR4GBAKm6OPJhM/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1a1XIBExIPsQME-_p1xJTSZC3qQf9OYlL/view?usp=drive_link), [CSV](https://drive.google.com/file/d/19XLHMezkzPng1kdCsDTj1VR1PVjkQTVX/view?usp=drive_link)
 
 ### 1. Wealth Topography
 
@@ -43,10 +43,9 @@ This section includes cross-country data that capture, at the aggregate level, t
 These data offer a unique view of aggregate household balance sheets. Country-specific portfolios are shaped by, and reflect, national characteristics, including demographic trends, inflation and interest rate dynamics, features of financial and credit markets, the relative importance of stock exchanges versus banking systems, the strength of asset management industries, and the preferential tax treatment of assets, as well as the preferences of households and the generosity of pensions systems.
 
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-topography/)
-- **Download the Wealth Topography database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1rTg8qU5hBhsNMU970Homkbml88R7cHEn/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1tv2f8-SAx6qbSYP6ufuKUf3lP228eUXO/view?usp=share_link), [CSV](https://drive.google.com/file/d/1sIrSw1bFZJAuertcIuo9dwdmYadMYgxR/view?usp=share_link)
-- **Download the Wealth Topography database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1zjaJdk-2SF48g3RtToZGsqiiAluFzj0i/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1w_7QD6LAgBcxaHjbLQ13ZKCWAes8DQfJ/view?usp=share_link), [CSV](https://drive.google.com/file/d/1NqvbT2A03XvqT_Siax_SaT8XXpAwKAkU/view?usp=share_link)
+- **Download the Wealth Topography database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1XJYk7Exv4D4ilvpe8i50CWMSwld1TQdB/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1GmK57QtZP_eFMNlvAY9RZRLdH_KiBd5y/view?usp=drive_link), [CSV](https://drive.google.com/file/d/19vzSCntJB4e8hDFBgd0ZG_9C1J1OzrSH/view?usp=drive_link)
+- **Download the Wealth Topography database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1d7UxhS7Gqeiy0YVy45_syhMQCXtnmaKY/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1RabkpYob50qoOGVcJThVc-2OkqSjKaV0/view?usp=drive_link), [CSV](https://drive.google.com/file/d/16I6CgJHeNZMMhwbKgR4_S8KlITpbmPJe/view?usp=drive_link)
  
-
 ### 2. Wealth Inequality Trends
 
 This section presents a large comprehensive compilation of cross-national time-series data on wealth inequality. This section contains wealth inequality indicators (such as top shares and Gini coefficients) for many countries, as estimated in the existing literature and as derived from existing micro data sources. These data are accompanied by Methodological Tables that provide systematic assessments of the underlying concepts, methods, and sources for the estimation of wealth inequality trends.
@@ -54,8 +53,8 @@ This section presents a large comprehensive compilation of cross-national time-s
 This section provides access to, and detailed information about, wealth inequality across countries and over time. To date, there is no comprehensive database that offers “off the shelf” indicators on wealth inequality levels and trends for a variety of different sources. Estimates of wealth distributions are much less settled than those of income distributions, and there is substantial controversy about how wealth inequality has evolved in recent years. A core value-added of this section is that users have access to detailed information about the values provided and methodological information that will help them to navigate the inevitable complexity. Users can also exploit our classification of data types, source types, and unit of analysis to guide the choice of the most suitable indicator for their purpose.
 
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/wealth-inequality-trends/)
-- **Download the Wealth Inequality Trends database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/18XZkaYwhxOW8UFIbdmHEbt2hOun873AU/edit?usp=share_link&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1tFDB_fYc5Y-2vcVu9mqNvqkdnnvA00PV/view?usp=share_link), [CSV](https://drive.google.com/file/d/1kgApz4LGfxEkIRSLOSknRvPKYV7Nm50E/view?usp=share_link)
-- **Download the Wealth Inequality Trends database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1Lk4k2XyIOCm_PEj-2NC_e1ihsWTY8wsr/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1aS2iFlhu2mEIE5dYcxGXoDlL44P_T4bl/view?usp=share_link), [CSV](https://drive.google.com/file/d/1T-B9DopQIs9a6VfnfkOSjGdO_zvnkPXp/view?usp=share_link)
+- **Download the Wealth Inequality Trends database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1LZegla1y20Pm11zWB9OOxWbJCZaH11bi/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1YlY9r6m6GdHVcDvnguv61nGnWIq3yuys/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1myY2OKWAXhr_ipRY1rTfGBr3-3dmTD_I/view?usp=drive_link)
+- **Download the Wealth Inequality Trends database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1KpY4MpPvzAQCbkB3RvV8xFIXMd8WGuY-/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/19qQSzdB3jGcOut8QzHgUU5ZIfGZS3X68/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1lWkNey5DA-k_gU9F1G4XnnTibddRgp-V/view?usp=drive_link)
 
 ### 3. Estate, Inheritance, and Gift Taxes
 
@@ -64,23 +63,23 @@ This section contains a comprehensive database on the evolution of estate, inher
 Understanding how governments tax these transfers is essential because bequests, inheritances, and inter vivos gifts are crucial economic resources for households and because their scale has increased substantially in recent decades relative to total national income. Very little work has been done to analyze how patterns of wealth transfer taxation affect the extent of these transfers across countries and across households within countries. This systematic compilation of tax data will provide researchers a crucial tool for scholarship and policy analysis focused on the behavioral effects of wealth taxes.
 
 - [Interactive Dashboard](https://wealthproject.gc.cuny.edu/EIG/)
-- **Download the Estate, Inheritance, and Gift Taxes database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1oktzUHLXnHEeCOm2AXboujw4Vi0svH8z/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1xVeyI0OltOjuni9TUCWDAlz9gypmZKoH/view?usp=share_link), [CSV](https://drive.google.com/file/d/143Jxc3V4CN0S-otwGj1rljWJM3k4ernD/view?usp=share_link)
-- **Download the Estate, Inheritance, and Gift Taxes database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1ipy5aisep7hU1c70m0XsIaImIumaHT7Y/edit?usp=share_link&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/15tjJqmnxJVjIMq9xcg13y1vC683KFNnW/view?usp=share_link), [CSV](https://drive.google.com/file/d/1VblxwCxzX50XUu7fWFk1YYHVmV0mxvFr/view?usp=share_link)
+- **Download the Estate, Inheritance, and Gift Taxes database with metadata**: [Excel](https://docs.google.com/spreadsheets/d/1oZhUB1MjjMQZYNqj4TUw9aRWGHvE_Hld/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1uJF95_Fj13O0xxcD5eBFLiw57qhSF_XG/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1ro5vo6cwvm1GYkTULr5CgE30BX5GBCmt/view?usp=drive_link)
+- **Download the Estate, Inheritance, and Gift Taxes database without metadata**: [Excel](https://docs.google.com/spreadsheets/d/1DBJX1Y4h1lvv-vlhzgkEYq0NlyERpBMk/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/14k-k1a5xtzgyNOPVVthq_9iU3AV8t8nQ/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1s-fUkZ2x5bY9wlhZj_jUZZh9W57rLaYV/view?usp=drive_link)
 
 ### 4. Inheritance Trends (Coming Soon)
-This section, forthcoming in 2024, will present cross-country estimates of annual flows of wealth left at death as well as gifts from living donors. The included estimates will be taken from existing works in the literature or derived using a variety of approaches drawing on national accounts data and survey data, as well as estate, inheritance, and gifts tax records.
+This section, forthcoming in 2025, will present cross-country estimates of annual flows of wealth left at death as well as gifts from living donors. The included estimates will be taken from existing works in the literature or derived using a variety of approaches drawing on national accounts data and survey data, as well as estate, inheritance, and gifts tax records.
 
 ### 5. Supplementary variables 
 This dataset encompasses a variety of auxiliary variables, such as exchange rates and price indices, crucial for developing the visualizations on our website. Mainly derived from the World Inequality Database ([wid.world](www.wid.world)), these elements are consistently updated and archived to maintain accuracy and reliability in our analyses.
-- **Download the supplementary variables (Sep 28, 2023)** [Excel](https://docs.google.com/spreadsheets/d/1ulGyRU8pan08dnqJyKGehndAcR7sY1D7/edit?usp=share_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1cmHG8th8lEkKEfqgAgMC6FmvS9Hh334q/view?usp=share_link), [CSV](https://drive.google.com/file/d/16LS8NicLEFLfiVh6GqNOgho7SNuSDm2H/view?usp=share_link)
+- **Download the supplementary variables (Jul 16, 2024)** [Excel](https://docs.google.com/spreadsheets/d/1kXfY4qOv7JzAuYCQin9f0GwA1C4bWYui/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1-kNzaMt3Q96YCzihIl21ogUmpGcQSXro/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1TVVDszPqSZ__o4F_X8WOlWn3t2HbdcjW/view?usp=drive_link)
 
 ## Resources and Documentation
 
-- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Link to Documentation](https://osf.io/preprints/socarxiv/ta67n/).
+- **Warehouse Documentation**: A detailed PDF that explains the technical aspects of our data collection, organization, and more. [Link to Documentation]().
   
-- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file](https://drive.google.com/file/d/13Q4ulzt38phSGrWs7xpukmqAPYptfMq8/view?usp=sharing).
+- **Digital Library of Research on Wealth Inequality**: A vast database that includes abstracts and, when possible, full texts of significant articles, chapters, and books focused on wealth inequality. [Link to Library](https://wealthproject.gc.cuny.edu/digital-library-of-research/), [Download the bib file]().
   
-- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file](https://drive.google.com/file/d/1VQmTUVI1oH-VbeWmTVez6HWz6kjH7-Et/view?usp=sharing).
+- **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file]().
 
 ## Warehouse history 
 
@@ -89,6 +88,6 @@ For the sake of space keeping and accessibility, former versions are only access
 ### First version v1.0 - November 2023 release: 
 
 - Full data warehouse: [download with metadata](https://drive.google.com/file/d/1FmO8qVbBshI0iQqyY321jjp1jfKnvLT_/view?usp=share_link), [download without metadata](https://drive.google.com/file/d/1dEuqsWiyFfhwSDGysY3qLw0H-iYrolhg/view?usp=share_link)
-- Supplementary variables: [download](https://drive.google.com/file/d/16LS8NicLEFLfiVh6GqNOgho7SNuSDm2H/view?usp=share_link)
+- Supplementary variables (28 sep, 2023): [download](https://drive.google.com/file/d/16LS8NicLEFLfiVh6GqNOgho7SNuSDm2H/view?usp=share_link)
 - Documentation: [download](https://osf.io/preprints/socarxiv/ta67n/).
 
