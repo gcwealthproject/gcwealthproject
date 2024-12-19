@@ -69,7 +69,7 @@ Understanding how governments tax these transfers is essential because bequests,
 ### 4. Inheritance Trends (Coming Soon)
 This section, forthcoming in 2025, will present cross-country estimates of annual flows of wealth left at death as well as gifts from living donors. The included estimates will be taken from existing works in the literature or derived using a variety of approaches drawing on national accounts data and survey data, as well as estate, inheritance, and gifts tax records.
 
-### 5. Supplementary variables 
+### 5. Supplementary Variables 
 This dataset encompasses a variety of auxiliary variables, such as exchange rates and price indices, crucial for developing the visualizations on our website. Mainly derived from the World Inequality Database ([wid.world](www.wid.world)), these elements are consistently updated and archived to maintain accuracy and reliability in our analyses.
 - **Download the supplementary variables (Jul 16, 2024)** [Excel](https://docs.google.com/spreadsheets/d/1kXfY4qOv7JzAuYCQin9f0GwA1C4bWYui/edit?usp=drive_link&ouid=114609468696885316335&rtpof=true&sd=true), [Stata](https://drive.google.com/file/d/1-kNzaMt3Q96YCzihIl21ogUmpGcQSXro/view?usp=drive_link), [CSV](https://drive.google.com/file/d/1TVVDszPqSZ__o4F_X8WOlWn3t2HbdcjW/view?usp=drive_link)
 
@@ -81,7 +81,7 @@ This dataset encompasses a variety of auxiliary variables, such as exchange rate
   
 - **Digital Library of Sources**: A list of all sources used in each section of the GC Wealth Project's data warehouse. Available under each reference are BibTeX citations and abstracts. [Link to Library](https://wealthproject.gc.cuny.edu/data/data-sources-library/), [Download the bib file]().
 
-## Warehouse history 
+## Warehouse History 
 
 For the sake of space keeping and accessibility, former versions are only accessible in CSV format, which is unlicensed and lighter than the alternatives. 
 
